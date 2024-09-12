@@ -1,0 +1,3 @@
+[submodule "vulnerable-code-snippets"]
+	path = vulnerable-code-snippets
+	url = git@github.com:yeswehack/vulnerable-code-snippets.git
